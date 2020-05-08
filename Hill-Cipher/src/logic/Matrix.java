@@ -87,8 +87,7 @@ public class Matrix {
 		for(double x: row) {
 			System.out.print(x + " ");
 		}
-		System.out.print("]\n");
-		System.out.println();
+		System.out.println("]\n");
 	}
 	
 	public void displayColumn(int columnIndex) {
